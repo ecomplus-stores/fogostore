@@ -1,5 +1,6 @@
 {
-  "domain": "fogostore.netlify.app",
+  "domain": "fogostore.com.br",
+  "repository": "ecomplus-stores/fogostore",
   "currency_symbol": "R$",
   "primary_color": "#393e46",
   "theme": {
